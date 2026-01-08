@@ -13,24 +13,10 @@ Exploring the intersection of **Computer Science, AI, and real-world problem sol
 
 ## What I’m Working On
 
-- 🔹 DSA (problem-solving mindset over rote learning)
-- 🔹 Writing clean, readable, and efficient code
-- 🔹 Understanding **how things work under the hood**
-- 🔹 Sharing my learning journey with the tech community
-
-## Tech Stack (Growing Every Day)
-
-**Languages**
-- C
-- Python
-- JavaScript
-- SQL
-
-**Core Concepts**
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Basics of Databases  
-- Problem Solving & Debugging  
+- DSA (problem-solving mindset over rote learning)
+- Writing clean, readable, and efficient code
+- Understanding **how things work under the hood**
+- Sharing my learning journey with the tech community
 
 ## GitHub Philosophy
 
