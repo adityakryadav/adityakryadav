@@ -14,7 +14,6 @@ Exploring the intersection of **Computer Science, AI, and real-world problem sol
 ## Let’s Connect
 
 - LinkedIn: *https://www.linkedin.com/in/engr-aadii/*
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/adityakyotgv5*
 - Open to discussions, collaborations, and learning together
 
 ---
