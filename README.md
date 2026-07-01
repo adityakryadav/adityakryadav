@@ -19,4 +19,4 @@ Exploring the intersection of **Computer Science, AI, and real-world problem sol
 ---
 
 If you find something useful here, feel free to star a repo.  
-I’m just getting started — more coming soon.
+I’m just getting started - more coming soon.
