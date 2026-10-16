@@ -1,22 +1,21 @@
-# Hi, I’m Aditya Kumar Yadav
+# Hi, I'm Aditya Kumar Yadav
 
-B.Tech CSE (AI & ML) | Problem Solver | Tech Enthusiast  
-Exploring the intersection of **Computer Science, AI, and real-world problem solving**
+B.Tech CSE (AI & ML) student at the Faculty of Technology, University of Delhi (2028).
+I build ML-driven applications and backend systems, and contribute to open source.
 
-## About Me
+## Highlights
+- Ranked #9 at EduLinkUp Summer of Code 2026: 174 PRs opened, 158 merged across 6 open-source projects
+- Oracle OCI 2025 Certified: Generative AI Professional and Data Science Professional
+- Abstract accepted for oral presentation at ICMSCI-2026
 
-- Second-year B.Tech student passionate about **core CS fundamentals**
-- Currently strengthening my base in **Data Structures & Algorithms**
-- Curious about **Artificial Intelligence, Machine Learning, and system-level thinking**
-- Believe in **learning by building, breaking, and fixing**
-- Focused on long-term growth, not shortcuts
+## Selected Projects
+- **Q-NVPS**: adaptive CPU scheduling algorithm in C, ~40% fewer context switches than the strongest greedy baseline across 1,000-run comparisons
+- **VoltMap India**: EV charging gap analysis and demand forecasting (K-Means across 34 states, five forecasting methods)
+- **Point Ledger**: loyalty-points exchange platform with a double-entry ledger and a conversion engine
+- **Eligify**: rule-based eligibility engine with explainable decisions
 
-## Let’s Connect
+## Tech
+Python, C, C++, JavaScript/TypeScript, SQL, Scikit-learn, Pandas, OpenCV, Tesseract OCR, Git
 
-- LinkedIn: *https://www.linkedin.com/in/engr-aadii/*
-- Open to discussions, collaborations, and learning together
-
----
-
-If you find something useful here, feel free to star a repo.  
-I’m just getting started - more coming soon.
+## Connect
+[LinkedIn](https://www.linkedin.com/in/engr-aadii/) | Open to Software Engineering and ML internships
