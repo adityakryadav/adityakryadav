@@ -9,10 +9,14 @@ I build ML-driven applications and backend systems, and contribute to open sourc
 - Abstract accepted for oral presentation at ICMSCI-2026
 
 ## Selected Projects
-- **Q-NVPS**: adaptive CPU scheduling algorithm in C, ~40% fewer context switches than the strongest greedy baseline across 1,000-run comparisons
-- **VoltMap India**: EV charging gap analysis and demand forecasting (K-Means across 34 states, five forecasting methods)
-- **Point Ledger**: loyalty-points exchange platform with a double-entry ledger and a conversion engine
-- **Eligify**: rule-based eligibility engine with explainable decisions
+- **[Q-NVPS](https://github.com/Piyush-0369/NVPS_Algo_test)**: hybrid CPU scheduler in C combining dynamic priority with a bounded time quantum, co-developed; ~40% lower waiting time than Round Robin across 1,000 workloads
+- **[Point Ledger](https://github.com/adityakryadav/project-point-ledger)**: loyalty-points exchange platform with a double-entry ledger and a conversion engine
+- **[Yogya](https://github.com/adityakryadav/project-yogya)**: Flutter app that helps students check government exam eligibility; I built the document parsing and OCR
+- **[Eligify](https://github.com/adityakryadav/project_eligify)**: rule-based eligibility engine with explainable decisions
+- **[Public Health Analysis](https://github.com/adityakryadav/public-health-analysis)**: EDA and modelling of global health indicators across 90+ countries (pandas, seaborn, scikit-learn)
+
+## Open Source
+Merged pull requests: [view all](https://github.com/search?q=author%3Aadityakryadav+is%3Apr+is%3Amerged&type=pullrequests)
 
 ## Tech
 Python, C, C++, JavaScript/TypeScript, SQL, Scikit-learn, Pandas, OpenCV, Tesseract OCR, Git
